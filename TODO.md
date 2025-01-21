@@ -44,6 +44,12 @@
 - [x] Supplier Code of Conduct
 - [x] Green Procurement Guidelines
 
+#### Investment & Tokenization
+- [x] Investor Disclaimers and Risk Disclosures
+- [x] Equity Tokenization Agreement
+- [x] DYOR (Do Your Own Research) Disclaimers
+- [x] Digital Asset Risk Disclosures
+
 ### 🎯 IMPLEMENTATION PRIORITIES
 
 #### Immediate (30 Days)
@@ -52,24 +58,28 @@
    - [ ] Compliance documents package
    - [ ] Operational documents package
    - [ ] Policy documents package
+   - [ ] Investment and tokenization package
 
 2. Department Head Reviews
    - [ ] Schedule review meetings
    - [ ] Collect feedback
    - [ ] Incorporate revisions
    - [ ] Obtain sign-offs
+   - [ ] Technical team review of tokenization documents
 
 3. Training Development
    - [ ] Create training materials
    - [ ] Design assessment methods
    - [ ] Set up tracking system
    - [ ] Schedule sessions
+   - [ ] Digital asset handling training
 
 4. System Updates
    - [ ] Document management system
    - [ ] Compliance monitoring tools
    - [ ] Training platform
    - [ ] Reporting systems
+   - [ ] Token management platform
 
 #### Short-term (90 Days)
 1. Staff Training Implementation
